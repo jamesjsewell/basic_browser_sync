@@ -7,8 +7,7 @@
 
 3. `git remote remove origin`
 
-4. create a new github repository for your project and
-set this as your project's remote
+4. create a new github repository for your project, take the .git url of the new repository and use it in this command `git remote add origin https://github.com/jamesjsewell/your_project_name.git` again, ^ that github link is just a placeholder, use the link from your new project
 
 5. `git add .`
 
