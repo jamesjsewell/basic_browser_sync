@@ -3,16 +3,18 @@
 
 1. `git clone https://github.com/jamesjsewell/basic_browser_sync.git your_project_name` change your_project_name to the actual name of the project
 
-2. `git remote remove origin`
+2. `cd your_project_name`
 
-3. create a new github repository for your project and
+3. `git remote remove origin`
+
+4. create a new github repository for your project and
 set this as your project's remote
 
-4. `git add .`
+5. `git add .`
 
-5. `git commit -m "your commit message"`
+6. `git commit -m "your commit message"`
 
-6. `git push origin master`
+7. `git push origin master`
 
 * `npm install`
 * `npm run start`
